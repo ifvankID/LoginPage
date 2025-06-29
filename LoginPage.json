@@ -1,0 +1,14 @@
+[
+  {
+    "username": "ifvank",
+    "password": "admin",
+    "device_id": "IFVANK-U42I452H",
+    "expired": "2024-12-31"
+  },
+  {
+    "username": "testers",
+    "password": "pass123",
+    "device_id": "IFVANK-F26FZLYP",
+    "expired": "2024-07-01"
+  },
+]
