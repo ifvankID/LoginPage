@@ -18,6 +18,30 @@
     "expired": "2025-09-01"
   },
   {
+    "username": "ifvank",
+    "password": "admin",
+    "device_id": "IFVANK-67e2701da0eb219e",
+    "expired": "2027-07-01"
+  },
+  {
+    "username": "ifvank",
+    "password": "admin",
+    "device_id": "IFVANK-7c35631dca4440d6",
+    "expired": "2099-10-30"
+  },
+  {
+    "username": "ferry",
+    "password": "admin",
+    "device_id": "IFVANK-8f4hdjd91f6446c3",
+    "expired": "2027-07-01"
+  },
+  {
+    "username": "BakulUhat",
+    "password": "pass123",
+    "device_id": "IFVANK-397g28e1a9fh33",
+    "expired": "2025-09-01"
+  },
+  {
     "username": "testershh",
     "password": "pass123",
     "device_id": "IFVANK-F26FASZLYLP",
